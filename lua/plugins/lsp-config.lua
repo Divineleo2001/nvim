@@ -14,7 +14,7 @@ return {
     },
     config = function()
       require("mason-lspconfig").setup({
-        ensure_installed = {"lua_ls","dockerls"}
+        ensure_installed = {"lua_ls","dockerls","tailwindcss", "tsserver"}
       })
     end
   },
@@ -26,6 +26,9 @@ return {
 
       local lspconfig = require("lspconfig")
       lspconfig.tsserver.setup({
+        capabilities = capabilities
+      })
+      lspconfig.tailwindcss.setup({
         capabilities = capabilities
       })
       lspconfig.html.setup({
