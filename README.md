@@ -1,6 +1,15 @@
 # Project Name
+nvim Base setup
 
 ## Description
+this is just a project i want to use so that I can convert people to neovim cult we are competing with biggest religious base Vs code and I want to do a small part in showing that neovim can also be used to provide a better terminal experience where you able to access the folder in GUI way if you ever SSH into a system and dont a have GUI . Also dont worry I am also VS code fanboy, but this setup would atleast allow you to start working with neovim or vim for that matter and get an understanding on how vim binding, vim motions work and how you can use macros cause boy o boy learning those are like a super power so to get into learning and practicing those I dont want you to go through the process of setting it up , but also i would love you to set it up by yourself , cause that in itself seem to be fun experience. 
+
+I also would recommend my cult leader's playlist on getting into this cult as this video is a pass of rite. Please do watch the first to get comfortable with the powers you are going to gain
+
+https://www.youtube.com/watch?v=zHTeCSVAFNY&list=PLsz00TDipIffreIaUNk64KxTIkQaGguqn
+![image](https://github.com/Divineleo2001/nvim/assets/63149130/95d82b87-4038-4ac5-ba8e-a6e2659a9f72)
+
+this is our cult leader by the way.
 
 ## Installation
 
